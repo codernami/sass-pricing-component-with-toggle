@@ -1,0 +1,15 @@
+//Configuración guía de estilos
+@import'config/_fonts.scss';
+@import'config/_variables.scss';
+
+//Mixins
+@import'mixins/_toggleF.scss';
+
+//Estilos base
+@import'base/_normalize.scss';
+@import'base/_base.scss';
+
+//Bloques
+@import'blocks/_cards.scss';
+@import'blocks/_buttons.scss';
+@import'blocks/_toggle.scss';
